@@ -6,13 +6,13 @@
  ② 今日はどんな日の画像を自動生成します。  
  ③ 投稿用の文章を自動作成します。  
  ④ ②と③を合わせてtwitterに投稿します。  
-
-##　同じ階層に必要なファイル  
-### フォント関連  
-- NotoColorEmoji.ttf  
-- NotoSansJP-Bold.otf  
-- NotoSansJP-Medium.otf  
-⇒それぞれダウンロードして、main.pyと同じ階層においてください  
+   
+ ## 同じ階層に必要なファイル  
+ ### フォント関連  
+  - NotoColorEmoji.ttf  
+  - NotoSansJP-Bold.otf  
+  - NotoSansJP-Medium.otf  
+  ⇒それぞれダウンロードして、main.pyと同じ階層においてください  
  
-### 画像  
-- 背景画像`bg.jpg`
+ ### 画像  
+  - 背景画像`bg.jpg`
