@@ -11,8 +11,8 @@
  ## 必要なもの  
  ### 環境  
   - iPad(iPhoneでも可)
-  - アプリ：[a-Shell] (https://holzschu.github.io/a-Shell_iOS/)
-  - アプリ：[ショートカット] (https://support.apple.com/ja-jp/guide/shortcuts/welcome/ios)
+  - アプリ： [a-Shell](https://holzschu.github.io/a-Shell_iOS/)
+  - アプリ： [ショートカット](https://support.apple.com/ja-jp/guide/shortcuts/welcome/ios)
   
  ### 実行ファイル  
   - `dailyTweet.py`  
